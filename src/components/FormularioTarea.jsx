@@ -23,7 +23,7 @@ setTarea(``);
           <Button className='primary' type='submit'>Enviar</Button>
         </FormGroup>
       </Form>
-      <ListaTarea></ListaTarea>
+      <ListaTarea arregloTareas={arregloTareas} ></ListaTarea>
       </>
    
     );
