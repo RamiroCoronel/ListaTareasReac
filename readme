@@ -1,0 +1,22 @@
+# Practica lista de tareas 📝
+
+listas de tareas realizadas en React, practica de uso de props state, componentes de reac boostraps y almacenar datos en el localstorage.
+
+## Demo del proyecto
+
+Proba la demo de la lista de tareas del siguiente link: [Demo lista tareas]().
+
+## Pasos para probar el proyecto 
+
+Una vez clonado el repositorio ejecutar los siguientes comandos:
+`npm install`
+`npm start o npm run dev `
+
+## Librerias implementadas 🛠
+
+1.React-boostrap
+1.Boostrap v5.2.3
+
+## Autor
+
+Coronel Ramiro
